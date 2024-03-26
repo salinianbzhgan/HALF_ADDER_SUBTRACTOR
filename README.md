@@ -55,23 +55,30 @@ Figure -02 HALF Subtractor
 Developed by:Salini A RegisterNumber:*/23008741
 **CODE**
 **HALF ADDER**
+
 ![Screenshot 2024-03-26 082127](https://github.com/salinianbzhgan/HALF_ADDER_SUBTRACTOR/assets/145742862/5638d669-04ae-4859-b757-01b8106b6c44)
 
 **HALF SUBTRACTOR**
+
 ![Screenshot 2024-03-26 082138](https://github.com/salinianbzhgan/HALF_ADDER_SUBTRACTOR/assets/145742862/7aacbc45-8263-404e-8814-687b53932d10)
 
 **RTL Schematic**
 **HALF ADDER**
+
 ![Screenshot 2024-03-26 082151](https://github.com/salinianbzhgan/HALF_ADDER_SUBTRACTOR/assets/145742862/e476e975-3b7f-4c8b-b15a-53fbdf7995ac)
 
 
 **HALF SUBTRACTOR**
+
 ![Screenshot 2024-03-26 082200](https://github.com/salinianbzhgan/HALF_ADDER_SUBTRACTOR/assets/145742862/bda3b200-7d98-4242-90f6-e40f82ce2b9d)
 
 **Output/TIMING Waveform**
 **HALF ADDER**
+
 ![Screenshot 2024-03-26 082210](https://github.com/salinianbzhgan/HALF_ADDER_SUBTRACTOR/assets/145742862/f801f509-8f13-4a3a-8e16-66cc1b54903b)
+
 **HALF SUBTRACTOR**
+
 ![Screenshot 2024-03-26 082221](https://github.com/salinianbzhgan/HALF_ADDER_SUBTRACTOR/assets/145742862/74728dfb-e30d-467e-bb3a-42027f734252)
 
 **Result:**
